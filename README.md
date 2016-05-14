@@ -100,6 +100,8 @@ ionic config set gcm_key <your-gcm-project-number>
 
 15.- `ionic config set dev_push false`
 
+16.- `ionic buil android`
+
 ## Referencias:
 
 https://devdactic.com/ionic-push-notifications-guide/
