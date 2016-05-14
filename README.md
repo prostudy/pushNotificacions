@@ -103,4 +103,13 @@ ionic config set gcm_key <your-gcm-project-number>
 ## Referencias:
 
 https://devdactic.com/ionic-push-notifications-guide/
+
 https://cordova.apache.org/announcements/2015/12/08/cordova-ios-4.0.0.html
+
+https://thinkster.io/ionic-push-notifications-tutorial
+
+https://www.airpair.com/javascript/posts/push-it-real-good-with-ionic
+
+https://www.airpair.com/ionic-framework/posts/push-notifications-using-ionic-framework
+
+https://onesignal.com/
