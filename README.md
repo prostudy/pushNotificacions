@@ -116,3 +116,12 @@ https://www.airpair.com/javascript/posts/push-it-real-good-with-ionic
 https://www.airpair.com/ionic-framework/posts/push-notifications-using-ionic-framework
 
 https://onesignal.com/
+
+**Push Notifications Explained.-** https://www.urbanairship.com/push-notifications-explained
+
+**Devgirl's Weblog.-** http://devgirl.org/2014/12/16/push-notifications-sample-app-with-ionic-and-ngcordova/
+
+## Servidores:
+AirNotifier.- http://airnotifier.github.io/
+
+node-pushserver.- https://www.npmjs.com/package/node-pushserver
