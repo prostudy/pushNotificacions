@@ -103,6 +103,7 @@ ionic config set gcm_key <your-gcm-project-number>
 16.- `ionic buil android`
 
 ## Referencias:
+http://docs.ionic.io/docs/push-sending-push
 
 https://devdactic.com/ionic-push-notifications-guide/
 
